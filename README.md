@@ -5,7 +5,7 @@ Git - технология, которая позволяет объединит
 Git - что-то вроде облачного хранилища, в которое каждый из сотрудников может сгружать свой вклад в проект.
 
 ## Темы:
-* [Настройка Git](https://github.com/Barsuchek/Git-Theory/blob/main/Info/НастройкаGit.md)
+* [Введение и настройка Git](https://github.com/Barsuchek/Git-Theory/blob/main/Info/ВведениеИНастройкаGit.md)
 * [Добавление файлов в репозиторий](https://github.com/Barsuchek/Git-Theory/blob/main/Info/ДобавлениеФайлов.md)
 * [Отмена действий. Возвращение к старым версиям](https://github.com/Barsuchek/Git-Theory/blob/main/Info/ОтменаДействий.md)
 * [Работа с ветками. Объединение веток](https://github.com/Barsuchek/Git-Theory/blob/main/Info/Ветки.md)
